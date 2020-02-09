@@ -1,0 +1,3 @@
+Java is easy to learn. Java was designed to be easy to use and is therefore easy to write, compile, debug, and learn than other programming languages.
+Java is object-oriented. This allows you to create modular programs and reusable code.
+Java is platform-independent.
